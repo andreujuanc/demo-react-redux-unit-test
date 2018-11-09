@@ -6,4 +6,4 @@ Just a small demo of unit testing react with redux
  - [x] Babel 7
  - [x] Jest
  - [x] Enzyme
- - [ ] Cypress
+ - [x] Cypress
