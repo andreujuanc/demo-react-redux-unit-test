@@ -1,6 +1,8 @@
+import * as actions from '../actions'
+
 const todos = (state = [], action) => {
     switch (action.type) {
-        case 'ADD_TODO':
+        case actions.addTodo.type:
             return [
                 ...state,
                 {
